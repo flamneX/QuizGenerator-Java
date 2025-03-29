@@ -1,0 +1,3 @@
+I.Reduction\nII.Carbohydrate Formation\nIII.Regeneration of RuBP\nIV.Carbon Fixation\n\nSequence of Calvin Cycle.;IV>I>III>II;IV>III>I>II;II>I>III>IV;I>IV>II>III;A;
+Which plant tissue is responsible for transporting water and nutrients throughout the plant?;Sclerenchyma tissue;Ground tissue;Vascular tissue;Epidermal tissue;C;
+Which plants have compound leaves?;Elm;Butterwort;Magnolia;Horse Chestnut;D;

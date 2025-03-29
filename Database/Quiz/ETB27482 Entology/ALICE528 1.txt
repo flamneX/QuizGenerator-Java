@@ -1,0 +1,10 @@
+2024/08/28;21:47:25;3;
+To which order do insects with piercing-sucking mouthparts, such as aphids, belong?;Blattodea;Hymenoptera;Zingiberales;Hemiptera;D;Zingiberales;
+Which pest control method involves using natural predators to manage pest populations?;Chemical Control;Mechanical Control;Cultural Control;Biological Control;D;Biological Control;
+What are the three main body parts that make up the basic structure of an insect?;Head, thorax, and tail;Head, abdomen, and wings;Head, thorax, and abdomen;Thorax, abdomen, and antennae;C;Head, thorax, and abdomen;
+What is the primary function of an insect's compound eye?;To detect movement and provide wide viewing.;To generate a heat map of the surroundings.;To detect colors and differentiate fine details.;To focus light into a single, sharp image.;A;To detect movement and provide wide viewing.;
+To which order do dragonflies belong?;Diptera;Odonata;Coleoptera;Lepidoptera;B;Diptera;
+Which of the following insects have chewing mouthparts?;Mosquitoes;Grasshoppers;Houseflies;Butterflies;B;Grasshoppers;
+In a food web, which type of organism is typically responsible for recycling nutrients back into the ecosystem?;Tertiary Consumers;Primary Consumers;Decomposers;Secondary Consumers;C;Decomposers;
+Which of the following insects is a known vector for transmitting malaria?;Mosquitoes;Houseflies;Cockroaches;Beetles;A;Mosquitoes;
+Which of the following ranks is the broadest category in insect taxonomy?;Species;Genus;Family;Kingdom;D;Kingdom;

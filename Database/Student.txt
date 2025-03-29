@@ -1,0 +1,3 @@
+ALICE528;040528;Alice Johnson;alice.johnson@gmail.com;
+SMITH478;472816;Bob Smith;bob.smith78@gmail.com;
+CHARLIE7;CB5487;Charlie Brown;charlie.brown@yahoo.com;
